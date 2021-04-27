@@ -52,3 +52,6 @@ package-lock.json
 
 # IntelliJ IDE
 .idea
+
+# VS Code
+/.vscode/
