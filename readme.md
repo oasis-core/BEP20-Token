@@ -4,7 +4,7 @@ The new Smart Contract Generator for BEP20 Token.
 
 There are many type's of Token functions in BEP20.
 
-## referece code
+## reference code
 https://github.com/vittominacori/bep20-generator
 
 ## differece from ref
